@@ -1,0 +1,96 @@
+
+
+.navbar{
+    color: rgba(240, 248, 255, 0.527);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 1.2rem;
+    
+    
+}
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.fas{
+    font-size: 2rem;
+}
+
+.fas-foot{
+    font-size:1rem;
+}
+
+.foot-1{
+    background-color: rgb(230, 199, 199);
+    padding: 2rem;
+    
+}
+.foot-1 p{
+    color: rgb(218, 86, 141); 
+}
+
+.menu-1{
+    padding-top: 4rem;
+    padding-bottom:1rem;
+    background-color: rgb(153, 1, 52);
+    text-align: center;
+    margin-top: 1rem;
+   
+}
+.menu-1 p{
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Sacramento';
+    
+}
+
+.container-card{
+    background-color: rgba(161, 161, 161, 0.226);
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    
+}
+.card-1{
+    padding: 2rem;
+}
+
+/* Features Section */
+
+#features {
+    position: relative;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+  }
+  
+  .icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #ff4c68;
+  }
+
+  .feature-box{
+      text-align: center;
+      
+  }
+
+.link-1 a{
+    color: rgb(158, 65, 110);
+}
+  
+h5{
+    color: rgb(255, 255, 255);
+    font-family: 'Sacramento';
+    font-size: 2rem ;
+    background-color: rgba(61, 0, 0, 0.247);
+  }
+  
